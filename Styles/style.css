@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 500px;
+    height: 400px;
+    border: 1px solid;
+    margin: auto;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+form input{
+    margin-top: 40px;
+    margin-top: 40px;
+    font-size: 40px;
+    padding: 10px;
+}
